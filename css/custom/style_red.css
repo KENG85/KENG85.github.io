@@ -367,22 +367,22 @@ iframe {
 /*=========== HEADER-FORM-TWO-BGIMAGE =================*/
 
 .header-form-bgimage-2 {
-    background-image: url("../../images/1500x650x2.jpg");
+    background-image: url("../../images/header_bg.png");
 }
 /*=========== HEADER-FORM-THREE-BGIMAGE =================*/
 
 .header-form-bgimage-3 {
-    background-image: url("../../images/1500x650x3.jpg");
+    background-image: url("../../images/header_bg.png");
 }
 /*=========== HEADER-FORM-WITH-IMAGE-BGIMAGE-ONE =================*/
 
 .header-form-image-bgimage-1 {
-    background-image: url("../../images/1500x700x1.jpg");
+    background-image: url("../../images/header_bg.png");
 }
 /*=========== HEADER-FORM-WITH-IMAGE-BGIMAGE-TWO =================*/
 
 .header-form-image-bgimage-2 {
-    background-image: url("../../images/1500x700x2.jpg");
+    background-image: url("../../images/header_bg.png");
 }
 /*=========== HEADER-FORM-ONLY-BGIMAGE-ONE =================*/
 
